@@ -3,8 +3,8 @@
 class Dudu < Formula
   desc "Back up and restore your dev setup: packages, runtimes, dotfiles, terminal"
   homepage "https://github.com/fontnelle/dudu"
-  url "https://github.com/fontnelle/dudu/releases/download/v0.5.0/dudu-0.5.0.tar.gz"
-  sha256 "901cab9a9d33fd06883f919eec4f7d7be0b1d50c85046e58e1f7da677c6a2b21"
+  url "https://github.com/fontnelle/dudu/releases/download/v0.5.1/dudu-0.5.1.tar.gz"
+  sha256 "9d2b56db5bcf0a4d27175089945b7bf6187d5d471ef662d375327d1b19477f4c"
   license "MIT"
 
   def install
